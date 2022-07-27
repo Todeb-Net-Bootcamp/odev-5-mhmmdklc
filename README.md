@@ -21,7 +21,7 @@ __________________________________________
 <img width="1262" alt="Ekran Resmi 2022-07-27 18 42 34" src="https://user-images.githubusercontent.com/105243448/181290713-769d6177-4f4f-43fc-be82-972aa58f01f2.png">
 
 
-## Başlangıçta database
+## Başlangıçta Database
 
 <img width="802" alt="1- Başlangıçtaki Database" src="https://user-images.githubusercontent.com/105243448/181290809-d8de0a7d-b4a5-4a35-8a30-a2ba83e7788b.png">
 
